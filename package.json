@@ -14,8 +14,8 @@
     "colors": "^1.1.2",
     "commander": "^2.9.0",
     "format-json": "^1.0.3",
-    "lodash": "^3.10.1",
-    "zombie": "^4.2.1"
+    "lodash": "^4.17.21",
+    "zombie": "^6.1.0"
   },
   "scripts": {
     "test": "mocha test/unit/*.spec.js test/**/*.spec.js && jslint *.js"
